@@ -1,5 +1,5 @@
 
-# elephant.py
+# flamingo.py
 
 from .animal import Animal
 
