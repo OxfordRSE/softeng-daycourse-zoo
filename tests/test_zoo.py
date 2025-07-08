@@ -8,3 +8,7 @@ def test_elephant():
 
 def test_kangaroo():
     assert Kangaroo().describe() == "Roo the Kangaroo says thumps and hops around happily."
+
+
+def test_dog():
+    assert Dog().describe() == "Leo the Dog says bark and is a good boy!"
